@@ -1,0 +1,60 @@
+@import 'https://fonts.googleapis.com/css?family=Krona+One|Russo+One';
+button {
+  font-family: 'Russo One', sans-serif;
+  width: 100px;
+}
+
+.title-bar {
+  font-family: 'Krona One', sans-serif;
+  font-size: 40px;
+  width: 100%;
+  background-color: #6441A5;
+  color: white;
+  border-radius: 75px;
+  padding: 10px;
+}
+
+.padding {
+  padding: 20px
+}
+
+.offline {
+  width: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Russo One', sans-serif;
+  font-size: 30px;
+  background-color: red;
+  margin: 20px;
+}
+
+.online {
+  width: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Russo One', sans-serif;
+  font-size: 30px;
+  background-color: green;
+  margin: 20px;
+}
+
+.unknown {
+  width: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Russo One', sans-serif;
+  font-size: 30px;
+  background-color: grey;
+  margin: 20px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
